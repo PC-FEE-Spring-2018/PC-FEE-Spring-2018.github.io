@@ -1,23 +1,25 @@
+This page will cotinually be updated. Keep an eye out!
+
 # Las Vegas Front-end Engineering Pre-work
 Three months is a short amount of time to teach you everything you need to know to be a great front-end developer. To make sure that we can move as fast as possible and cover all of the topics that we need to cover, here's a list of exercises and reading materials to get you up to speed. Please complete this work before the first day of class.
 
-I expect you to be able to complete these exercises on your own. but if you run into trouble you're welcome to email me: <mike@punchcode.org.>
+I expect you to be able to complete these exercises on your own. but if you run into trouble you're welcome to email me: [mike@punchcode.org](mailto:mike@punchcode.org).
 
 ### HTML/CSS:
 HTML and CSS are the foundation of all the content of a webpage or web app. However, we will only be spending about one to two weeks on HTML and CSS, so having a basic foundation before class will be very helpful.
 
-Complete the Codecademy course at http://www.codecademy.com/en/tracks/web. This should take you approximately 7 hours, depending on your prior experience.
+Complete the Codecademy course at [http://www.codecademy.com/en/tracks/web](http://www.codecademy.com/en/tracks/web). This should take you approximately 7 hours, depending on your prior experience.
 
 
 ### JavaScript:
 We will spend most of our time talking about JavaScript. JavaScript allows us to add interaction to our web applications.
 
-Complete the Codecademy course at https://www.codecademy.com/learn/introduction-to-javascript. You don't need the pro version.
+Complete the Codecademy course at [https://www.codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript). You don't need the pro version.
 
 This is not how our course will be taught ­­but it’s great to get yourself as familiar as possible with some of the syntax of the language.
 
 ### Command Line
-Mastery of command line basics is essential for any developer (and extremely useful for non­devs) and will make your life much easier. Go through the following tutorial, paying special attention to the instructions to create notecards for memorization. You won't have to memorize many things in this course, but memorizing command line commands is essential: https://www.codecademy.com/courses/learn-the-command-line
+Mastery of command line basics is essential for any developer (and extremely useful for non­devs) and will make your life much easier. Go through the following tutorial, paying special attention to the instructions to create notecards for memorization. You won't have to memorize many things in this course, but memorizing command line commands is essential: [https://www.codecademy.com/courses/learn-the-command-line](https://www.codecademy.com/courses/learn-the-command-line)
 
 ### Software
 Before starting at PunchCode you will need a few pieces of free software. Please download and install the following software.
